@@ -6,17 +6,19 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod
 {
+    class Truck : Transport
+    {
+        public void deliver()
+        {
+            Console.WriteLine("Truck deliver");
+        }
+    }
+
     class RoadLogistics
     {
-        class Truck : Transport
-        {
-            public void deliver()
-            {
-                Console.WriteLine("Truck deliver");
-            }
-        }
+        
 
-        public Transport CreateTruck()
+        public Transport CreateObject()
         {
             return new Truck();
         }

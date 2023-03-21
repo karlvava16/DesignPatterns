@@ -7,18 +7,18 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod
 {
-    
+    class Ship : Transport
+    {
+        public void deliver()
+        {
+            Console.WriteLine("Ship deliver");
+        }
+    }
 
     class SeaLogistics
     {
-        class Ship : Transport
-        {
-            public void deliver()
-            {
-                Console.WriteLine("Ship deliver");
-            }
-        }
-        public Transport CreateShip()
+        
+        public Transport CreateObject()
         {
             return new Ship();
         }
