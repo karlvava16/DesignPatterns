@@ -4,12 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Builder_22._03._2023
+namespace Builder
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            FordProbeBuilder builder = new FordProbeBuilder();
+            builder.BuildName();
+            builder.BuildCase();
+            builder.BuildEngene();
+            builder.BuildWheels();
+            builder.BuildGearBox();
+            Car car = builder.GetCar();
+            Console.Write(car);
         }
     }
 }
