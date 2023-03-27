@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Decorator_27._03._2023
+namespace Decorator
 {
     internal class Program
     {

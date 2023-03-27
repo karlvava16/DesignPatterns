@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Decorator_27._03._2023
+namespace Decorator
 {
-    internal class Decorator
+    public abstract class HeroDecorator : Hero
     {
+        protected Hero component { get; set; }
+        public HeroDecorator(Hero component) => this.component = component;
+        public abstract void Change();
     }
 }
