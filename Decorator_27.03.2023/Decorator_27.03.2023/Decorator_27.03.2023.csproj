@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DecoratedHero.cs" />
+    <Compile Include="Decorator.cs" />
+    <Compile Include="Hero.cs" />
+    <Compile Include="HumanElf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
