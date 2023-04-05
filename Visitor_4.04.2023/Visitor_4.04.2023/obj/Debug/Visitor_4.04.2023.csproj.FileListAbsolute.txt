@@ -1,0 +1,8 @@
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\bin\Debug\Visitor_4.04.2023.exe.config
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\bin\Debug\Visitor_4.04.2023.exe
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\bin\Debug\Visitor_4.04.2023.pdb
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\obj\Debug\Visitor_4.04.2023.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\obj\Debug\Visitor_4.04.2023.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\obj\Debug\Visitor_4.04.2023.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\obj\Debug\Visitor_4.04.2023.exe
+C:\Step\2year\WinForms\Visitor_4.04.2023\Visitor_4.04.2023\obj\Debug\Visitor_4.04.2023.pdb
